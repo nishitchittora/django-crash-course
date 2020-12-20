@@ -1,12 +1,12 @@
-=====
+===================
 Django Crash Course
-=====
+===================
 
-Crash Course is a Django app to create online course generation website.
+Crash Course is a Django app to create an online course generation website.
 
-Each course can contains multiple chapters and each chapter can contain multiple sections.
+Each course can contain multiple chapters and each chapter can contain multiple sections.
 
-Section contains actual content in form of text and images.
+The section contains actual content in form of text and images.
 
 Quick start
 -----------
